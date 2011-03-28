@@ -13,9 +13,6 @@ class ProductController {
       [products:Product.list()]}
 
 
-
-
-
     def show = {
         def product = Product.read(params.id as int)
         [product: product]
