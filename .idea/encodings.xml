@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
-    <file url="file://$PROJECT_DIR$/helloApp/grails-app/controllers/brp/HelloController.groovy" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/helloApp/grails-app/controllers/brp/ProductController.groovy" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/helloApp/grails-app/i18n/messages_sv.properties" charset="windows-1252" />
-  </component>
-</project>
-
