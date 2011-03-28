@@ -12,7 +12,9 @@ class ProductController {
 
       [products:Product.list()]}
 
-  
+
+
+
 
 
     def show = {
